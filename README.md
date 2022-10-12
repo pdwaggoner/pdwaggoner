@@ -7,6 +7,6 @@ I don't (publicly) work a ton on Github anymore. But always feel free to [reach 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Favorite+languages+R+%7C+Python+%7C+Julia;Interests+Data+Science %7C+Computational+Social+Science+%7C+Machine+Learning;Reach+out+if+you'd+like+to+chat+or+collaborate!&center=true&width=800&height=45" alt="pdwaggoner">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=900&height=75&lines=Favorite+languages%3A+R%2C+Python%2C+Julia;Interests%3A+Data+Science%2C+Computational+Social+Science%2C+Machine+Learning;Reach+out+if+you'd+like+to+chat+or+collaborate!" alt="pdwaggoner" /></a>
 </p>
 <hr/>
