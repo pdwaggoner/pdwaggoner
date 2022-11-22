@@ -11,4 +11,4 @@
 
 -->
 
-I don't work much (publicly) on Github anymore. But if you'd like to chat or collaborate, please feel free to [reach out](https://pdwaggoner.github.io/).
+I don't (publicly) work much on Github anymore. But if you'd like to chat or collaborate, please feel free to [reach out](https://pdwaggoner.github.io/).
