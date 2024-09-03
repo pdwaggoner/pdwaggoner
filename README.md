@@ -13,7 +13,6 @@
 
 I have been fortunate to have worked with some incredible people over the years, and have written and/or contributed many packages and pieces of software, such as: 
 
-  - `rIP` ([![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/rIP)](https://cran.r-project.org/package=rIP))
   - `hdImpute` ([![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/hdImpute)](https://cran.r-project.org/package=hdImpute))
   - `performance` ([![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/performance)](https://cran.r-project.org/package=performance))
   - `insight` ([![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/insight)](https://cran.r-project.org/package=insight))
