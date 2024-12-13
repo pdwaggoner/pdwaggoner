@@ -22,4 +22,4 @@ I have been fortunate to have worked with some incredible people over the years,
   - `effectsize`: [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/effectsize)](http://cran.r-project.org/package=effectsize) [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/effectsize)](https://cran.r-project.org/package=effectsize)
   - `plotmm`: [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/plotmm)](http://cran.r-project.org/package=plotmm) [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/plotmm)](https://cran.r-project.org/package=plotmm)
 
-While I don't work publicly on Github too much these days, I always love meeting new people and hearing about their work. So, if you'd like to chat or collaborate, please feel free to [reach out](https://pdwaggoner.github.io/) directly.
+I always love meeting new people and hearing about their work. So, if you'd like to chat or collaborate, please feel free to [reach out](https://pdwaggoner.github.io/) directly.
