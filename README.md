@@ -11,7 +11,9 @@
 
 -->
 
-I have been fortunate to have worked with some incredible people over the years, and have written and/or contributed to many packages and pieces of software, such as: 
+I and the designer and maintainer of the code development environment of the Hammerling Research Group at the Colorado School of Mines. This includes many repos, projects, and codebases from research to production code, in service of our group's open development efforts. Learn more [here](https://github.com/Hammerling-Research-Group). 
+
+Beyond my main work at Mines, I have been fortunate to have worked with some incredible people over the years, and have written and/or contributed to many packages and pieces of software, such as: 
 
   - `hdImpute`: [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/hdImpute)](http://cran.r-project.org/package=hdImpute) [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/hdImpute)](https://cran.r-project.org/package=hdImpute)
   - `performance`: [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/performance)](http://cran.r-project.org/package=performance) [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/performance)](https://cran.r-project.org/package=performance)
