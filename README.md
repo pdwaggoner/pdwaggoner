@@ -11,7 +11,7 @@
 
 -->
 
-I am the designer and maintainer of the code development core of the Hammerling Research Group at the Colorado School of Mines in the Department of Applied Mathematics and Statistics. Our code core includes many repos, projects, and codebases from research and scratch code to production code, in service of our group's open development efforts. Learn more [here](https://github.com/Hammerling-Research-Group). 
+I am the designer and maintainer of the code development core of the Hammerling Research Group at the Colorado School of Mines in the Department of Applied Mathematics and Statistics. Our code core includes many repos, projects, and codebases from research and scratch code to production code and high performance computing, all in service of our group's open development efforts and mission. Learn more [here](https://github.com/Hammerling-Research-Group). 
 
 Beyond my main work at Mines, I have been fortunate to have worked with some incredible people over the years, and have written and/or contributed to many packages and pieces of software which have been downloaded millions of times, such as: 
 
