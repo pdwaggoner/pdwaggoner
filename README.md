@@ -11,9 +11,7 @@
 
 -->
 
-I am the designer and maintainer of the code development core of the Hammerling Research Group at the Colorado School of Mines in the Department of Applied Mathematics and Statistics. Our code core includes many repos, projects, and codebases from research and scratch code to production code and high performance computing, all in service of our group's open development efforts and mission. Learn more [here](https://github.com/Hammerling-Research-Group). 
-
-Beyond my main work at Mines, I have been fortunate to have worked with some incredible people over the years, and have written and/or contributed to many packages and pieces of software which have been downloaded millions of times, such as: 
+From developing the dev core of a [lab](https://github.com/Hammerling-Research-Group) to building open source tools, I have been fortunate to have worked with some incredible people over the years, and have written and/or contributed to many packages and pieces of software which have been downloaded millions of times, such as: 
 
   - `hdImpute`: [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/hdImpute)](http://cran.r-project.org/package=hdImpute) [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/hdImpute)](https://cran.r-project.org/package=hdImpute)
   - `performance`: [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/performance)](http://cran.r-project.org/package=performance) [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/performance)](https://cran.r-project.org/package=performance)
