@@ -11,7 +11,7 @@
 
 -->
 
-From developing the dev core of a [lab](https://github.com/Hammerling-Research-Group) to building open source tools, I have been fortunate to have worked with some incredible people over the years, and have written and/or contributed to many packages and pieces of software which have been downloaded millions of times, such as: 
+From building open source tools to developing the computing infrastructure of a [lab](https://github.com/Hammerling-Research-Group), I have been fortunate to have worked with some incredible people over the years, and have written and/or contributed to many packages and pieces of software which have been downloaded millions of times, such as: 
 
   - `hdImpute`: [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/hdImpute)](http://cran.r-project.org/package=hdImpute) [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/hdImpute)](https://cran.r-project.org/package=hdImpute)
   - `performance`: [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/performance)](http://cran.r-project.org/package=performance) [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/performance)](https://cran.r-project.org/package=performance)
